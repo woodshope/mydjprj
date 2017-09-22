@@ -1,0 +1,2 @@
+# mydjprj
+my django projects
